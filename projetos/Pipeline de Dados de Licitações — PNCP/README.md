@@ -4,8 +4,7 @@ Pipeline de coleta e análise de licitações públicas de Mato Grosso via API d
 
 ## Status
 
-v1 (atual): Coletor + Banco em Python, Power BI (via ODBC) fazendo a análise e o dashboard.
-v2 (pausada, revisão em 2026-08-08): ETL completo com Analisador + main.py + Streamlit. Código já existe, só não está em uso agora.
+Estou tentando conciliar com a faculdadde o tempo para avancar nesses projetos. Porem estou mais focado na faculdade no momento
 
 ## Quick Start
 
